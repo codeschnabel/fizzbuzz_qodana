@@ -9,3 +9,4 @@ profile:
 include:
   - name: CheckDependencyLicenses
   - name: JUnitAssertEqualsArgumentsOrder
+  - name: MisorderedAssertEqualsArguments
