@@ -15,6 +15,8 @@ public class FizzBuzzerTests {
     @Test
     public void fizzBuzz_2_returns_2() {
         FizzBuzzer fizzBuzzer = new FizzBuzzer();
+        if (1 == 1)
+            System.out.println("This is a test");
 
         String result = fizzBuzzer.fizzBuzz(2);
 
